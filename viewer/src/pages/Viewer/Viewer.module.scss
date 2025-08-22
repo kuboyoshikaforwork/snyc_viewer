@@ -1,0 +1,15 @@
+// ビューアコンテナ
+.container {
+  float: left;
+  height: 100vh;
+  width: 80%;
+}
+
+// メニュー
+.sideMenu {
+  float: right;
+  height: 100vh;
+  width: 20%;
+  background-color: #d3d0d0;
+  overflow: auto;
+}
